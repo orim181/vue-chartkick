@@ -1,5 +1,5 @@
 {
-  "name": "vue-chartkick",
+  "name": "@orim181/vue-chartkick",
   "version": "0.6.0",
   "description": "Create beautiful JavaScript charts with one line of Vue",
   "main": "dist/vue-chartkick.js",
@@ -13,11 +13,11 @@
     "vue": ">=2.0.0"
   },
   "authors": [
-    "ankane"
+    "orim181"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ankane/vue-chartkick"
+    "url": "https://github.com/orim181/vue-chartkick"
   },
   "files": [
     "dist"
